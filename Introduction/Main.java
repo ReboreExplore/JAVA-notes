@@ -16,7 +16,9 @@ public class Main {
         String e = "Manpa";
         double f = 10.0;
         double g = f / b; // We can carry out mathematical operation slike '+','-','*','/','//' etc
-
+        
+        // int, double, boolean, char are primitive data types
+        // String is a non primitive datatype
 
         // Taking input in java requires to import the Scanner Class
         Scanner sc = new Scanner(System.in);
