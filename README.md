@@ -4,3 +4,9 @@ This repository contains the notes from the free code camp series of JAVA. It se
 1. Introduction - A simple java program. Variables & Data Types, Basic Operators, Input and Scanners, Conditions and Booleans use cases are discussed.
 
 2. Conditions - If/Else/Else If, Nested Statements, Arrays, For Loops, While Loops, Do-while Loops.
+
+3. List and Maps - Sets, Lists, Maps and HashMaps use cases are shown.
+
+4. Introduction to Object Oriented Programming.
+
+5. Classes and Inheritance
