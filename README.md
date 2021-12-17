@@ -10,3 +10,13 @@ This repository contains the notes from the free code camp series of JAVA. It se
 4. Introduction to Object Oriented Programming.
 
 5. Classes and Inheritance
+
+6. STATIC variables and methods
+
+7. Object Comparisions
+
+8. Inner Classes
+
+9. Interfaces
+
+10. Enums

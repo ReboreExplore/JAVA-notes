@@ -1,4 +1,4 @@
-
+// Here we inheit the Dog Class and all its methods to Cat
 public class Cat extends Dog {
     
     private int food;
@@ -17,8 +17,8 @@ public class Cat extends Dog {
         super(name,0);
         this.food = 50;
     }
-
-    public void speak(){
+    // Although all the methods of Dog class is inherited we can overwrite the method by create=ing one with the same name in the child class
+        public void speak(){
         System.out.println("Meow , My name is "+ this.name+ " and I get fed " + this.food);
     }
 }
